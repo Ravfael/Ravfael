@@ -9,6 +9,7 @@ A passionate Frontend Developer from Indonesia
 
 # Connect with me: 
 https://www.instagram.com/ravnov11/
+
 https://www.linkedin.com/in/ravnov/
 
 
