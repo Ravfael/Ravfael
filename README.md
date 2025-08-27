@@ -1,4 +1,4 @@
-## Hi 👋, I'm Ravfael ✨
+## Hi 👋, I'm Ravfael. ✨
 
 A passionate Frontend Developer from Indonesia.
 
