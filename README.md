@@ -5,7 +5,7 @@ https://ravnov.vercel.app/
 A passionate Frontend Developer from Indonesia
 
 - 🔭 I’m currently study at UII
-- 🌱 I’m currently learning Web3 and Blockchain.
+- 🌱 I’m currently learning Web3 and Blockchain
 - 💬 Ask me about JavaScript and TypeScript.
 - 📫 How to reach me ravfaelnovitohandoyo419@gmail.com
 
