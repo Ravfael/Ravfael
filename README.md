@@ -1,4 +1,4 @@
-## Hi 👋, I'm Ravfael ✨
+## Hi 👋, I'm Ravfael. ✨
 
 https://ravnov.vercel.app/
 
