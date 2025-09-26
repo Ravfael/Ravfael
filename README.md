@@ -2,7 +2,7 @@
 
 https://ravnov.vercel.app/
 
-A passionate Frontend Developer from Indonesia
+A passionate Frontend Developer from Indonesia.
 
 - 🔭 I’m currently study at UII.
 - 🌱 I’m currently learning Web3 and Blockchain.
