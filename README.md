@@ -1,12 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ravfael%20Novfito&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web3%20Dev&descSize=18&descAlignY=55&textBg=false"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Ravfael">
-    <img src="https://komarev.com/ghpvc/?username=Ravfael&label=Profile%20views&color=00FFFF&style=flat-square" alt="Ravfael's profile views" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - A passionate Web3 Developer from Indonesia
