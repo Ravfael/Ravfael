@@ -9,13 +9,20 @@
 - 👥  I'm looking to collaborate on Web3 project
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/Ravfael">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ravfael&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Ravfael's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=Ravfael&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Ravfael's GitHub Streak" width="49%" />
 </p>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Ravfael&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Ravfael&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ravfael&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 ## 🛠️ Languages & Tools
