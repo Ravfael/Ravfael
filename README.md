@@ -2,7 +2,7 @@
 
 
 ## 📌 About Me
-- A passionate Web3 Developer from Indonesia
+- A passionate Full Stack Web3 Developer from Indonesia
 - 🌍  I'm based in Indonesia
 - ✉️  You can contact me at ravfaelnovitohandoyo419@gmail.com
 - 🧠  I'm currently learning Web3 and Blockchain
