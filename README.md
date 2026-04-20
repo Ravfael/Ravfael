@@ -17,10 +17,6 @@
   <img src="https://streak-stats.demolab.com/?user=Ravfael&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Ravfael's GitHub Streak" width="49%" />
 </p>
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ravfael&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Ravfael&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ravfael&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
