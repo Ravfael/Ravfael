@@ -5,7 +5,7 @@
 - A passionate Full Stack Web3 Developer from Indonesia
 - 🌍  I'm based in Indonesia
 - ✉️  You can contact me at ravfaelnovitohandoyo419@gmail.com
-- 🧠  I'm currently learning Web3 and Blockchain
+- 🧠  I'm currently learning ZK (Zero-knowledge)
 - 👥  I'm looking to collaborate on Web3 project
 
 
