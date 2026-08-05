@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ravfael Novfito</h1>
 
-- A passionate Full Stack Web3 Developer from Indonesia
+<p align="center">
+<b>A passionate Full Stack Web3 Developer from Indonesia</b>
+</p>
+
+
 - 🌍  I'm based in Indonesia
 - ✉️  You can contact me at ravfaelnovitohandoyo419@gmail.com
 - 🧠  I'm currently learning ZK (Zero-knowledge)
