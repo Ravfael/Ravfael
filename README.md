@@ -1,4 +1,5 @@
-## About Me
+<h1 align="center">Hi 👋, I'm Ravfael Novfito</h1>
+
 - A passionate Full Stack Web3 Developer from Indonesia
 - 🌍  I'm based in Indonesia
 - ✉️  You can contact me at ravfaelnovitohandoyo419@gmail.com
@@ -47,7 +48,7 @@
 </div>
 
 
-## 🔗 Connect with Me
+## Connect with Me:
 <p align="center">
   <a href="www.linkedin.com/in/ravfaelnovfito">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
